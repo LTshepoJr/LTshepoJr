@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 ### Introduction:
 My name is Lethabo Kgoele. I am currently 19 years old, turning 20 end September. I am currently a student at CodeSpace which is based in Cape Town.I love coding and music especially Rap. I love anime too, my all time favourite is Naruto.
 
+**Interests and Values**:
+- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school, why only learn coding when you done with school when you can also learn it while you growing up
+
+**Short-term Goals** (Next 1-2 years):
+- In a year I will have mastered coding, hopfully have build numerous projects and will help me in my journy ahead, in 2 years I see myself getting experience in a workplace and will help me understand how working in a team feels like, to get through all the challenges to ecstatic moments.
+
+**Long-term Goals** (3-5 years and beyond):
+- In 3 years I would be creating websites and applications for people, or working for the military, who knows, in 4 years I want to plan out my dream to create a school and in 5 work hard to persue my dream.
+
 ![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
 ### List of my skills and technologies:
@@ -29,7 +38,7 @@ My name is Lethabo Kgoele. I am currently 19 years old, turning 20 end September
  * ©- JavaScript
 
 ### My projects:
-### I used all 3 languages in these projects, HTML, CSS, JavaScript to complete these projects which highlight my current work so far.
+**I used all 3 languages in these projects, HTML, CSS, JavaScript to complete these projects which highlight my current work so far.**
 
 I love basketball, so I wanted to create a scorecard because when basketball is being played at my little brothers school, they can use it to keep scores - [Basketball Scorecard](https://github.com/LTshepoJr/Basketball-Scorecard.git)
 
