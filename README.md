@@ -1,4 +1,6 @@
 # Hi there 👋
+![IMG_20220929_191928](https://github.com/LTshepoJr/LTshepoJr/assets/157045615/73aaa136-bc73-46c4-928f-031632ee2ae5)
+
 
 <!--
 **LTshepoJr/LTshepoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +45,4 @@ Using firebase as a database for the data to not be lost after refreshing was ve
 * E-Mail - lethabotshepojr@gmail.com
 * Number - +27842291148
 
-<!-- My first reademe.md commit -->
+<!-- Added Profile Image -->
