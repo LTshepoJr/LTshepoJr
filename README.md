@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 
 ### Introduction:
 
-My name is Lethabo Kgoele. I am currently 20 years old. I am currently a student at CodeSpace which is based in Cape Town. I love coding and music especially Hip-Hop/Rap. I love anime, my all-time favorite is Naruto.
+My name is Lethabo Kgoele, and I am currently 20 years old. I am a student at CodeSpace, based in Cape Town, where I am pursuing my passion for coding. In addition to my interest in technology, I have a deep love for music, particularly Hip-Hop and Rap, and I am also a fan of anime, with _Naruto_ being my all-time favorite.
 
 **Interests and Values**:
 
-- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school. Creating a school is one of my biggest interest because learning how to code while you are young is very prosperous.
+- I aspire to create web applications and video games that serve and inspire others. I believe this work will not only help me grow as an individual but also provide valuable insights for my future projects. One of my greatest ambitions is to establish a school where young people can learn how to code. I firmly believe that starting early in the world of programming can lead to immense success and opportunities.
 
 **Short-term Goals** (Next 1-2 years):
 
-- In a year I will have know how to code without too much help, hopefully have built numerous projects and will help me in my journey ahead, in 2 years I see myself getting experience in a workplace and will help me understand how working in a team feels like, to get through all the challenges to ecstatic moments.
+- Within the next year, I aim to strengthen my coding skills to the point where I can work independently on various projects. I hope to have built numerous applications that will serve as milestones in my journey. In two years, I see myself gaining experience in a professional environment, which will teach me the dynamics of teamwork and help me overcome challenges as I pursue both personal and professional growth.
 
 **Long-term Goals** (3-5 years and beyond):
 
-- In 3 years, I would be creating websites and applications for people, or working for the military, who knows, in 4 years I want to plan out my dream to create a school and in five years’ work hard to pursue my dream.
+- In three years, I envision myself working on web applications or games for clients, or possibly contributing my skills to a larger organization like the military. By the fourth year, I plan to actively work towards realizing my dream of starting a school. In five years, I will be fully committed to turning that dream into reality and making a meaningful impact through education and technology.
 
 ![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
