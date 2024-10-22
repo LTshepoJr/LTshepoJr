@@ -39,20 +39,20 @@ My name is Lethabo Kgoele, and I am currently 20 years old. I am a student at Co
 
 - ©- Fast Typing
 - ©- HTML
-- ©-CSS
+- ©- CSS
 - ©- JavaScript
 - ©- TypeScript
 - ©- React
 
 ### My projects:
 
-**I used all 3 languages in these projects, HTML, CSS, JavaScript to complete these projects which highlight my current work so far.**
+**I have utilized HTML, CSS, and JavaScript in these projects, which reflect my current skill set and development progress.**
 
-I love basketball, so I wanted to create a scorecard because when basketball is being played at my little brother’s school, they can use it to keep scores - [Basketball Scorecard](https://github.com/LTshepoJr/Basketball-Scorecard.git)
+As a basketball enthusiast, I created a scorecard application that can be used during games at my younger brother’s school to keep track of scores. This project allowed me to combine my passion for the sport with practical coding solutions. - [Basketball Scorecard](https://github.com/LTshepoJr/Basketball-Scorecard.git)
 
-A project that I wanted to go and learn beyond the scope of what I have learnt about JavaScript. Included functions like refresh button, numbers and symbols choice and click to copy after generating password - [Password Generator](https://github.com/LTshepoJr/Password-Generator.git)
+For this project, I sought to expand my knowledge of JavaScript beyond what I had learned in class. I incorporated functions such as a refresh button, the ability to choose numbers and symbols, and a "click to copy" feature after generating a password. - [Password Generator](https://github.com/LTshepoJr/Password-Generator.git)
 
-Using firebase as a database for the data to not be lost after refreshing was very interesting to learn, and added CSS features to stand out more and accessible - [Add to Cart App](https://github.com/LTshepoJr/Module_6_LETKGO330_PTO2401_GroupB2_Lethabo-Kgoele_SDF07.git)
+In this project, I integrated Firebase as a database to ensure data persistence even after page refreshes. This was a great learning experience, and I enhanced the app’s accessibility and visual appeal by adding CSS features to make it more user-friendly. - [Add to Cart App](https://github.com/LTshepoJr/Module_6_LETKGO330_PTO2401_GroupB2_Lethabo-Kgoele_SDF07.git)
 
 ### My social:
 
