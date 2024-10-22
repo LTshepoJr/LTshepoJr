@@ -2,7 +2,6 @@
 
 ![WhatsApp Image 2024-10-22 at 15 30 30_e43c3d7a](https://github.com/user-attachments/assets/151563b0-be85-4b54-b0fd-b657cc87e04e)
 
-
 <!--
 **LTshepoJr/LTshepoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,11 +23,11 @@ My name is Lethabo Kgoele. I am currently 20 years old. I am currently a student
 
 **Interests and Values**:
 
-- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school. Creating a school is one of my biggest interest because learning how to code while you young is very prosperous.
+- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school. Creating a school is one of my biggest interest because learning how to code while you are young is very prosperous.
 
 **Short-term Goals** (Next 1-2 years):
 
-- In a year I will have mastered coding, hopefully have built numerous projects and will help me in my journey ahead, in 2 years I see myself getting experience in a workplace and will help me understand how working in a team feels like, to get through all the challenges to ecstatic moments.
+- In a year I will have know how to code without too much help, hopefully have built numerous projects and will help me in my journey ahead, in 2 years I see myself getting experience in a workplace and will help me understand how working in a team feels like, to get through all the challenges to ecstatic moments.
 
 **Long-term Goals** (3-5 years and beyond):
 
@@ -42,6 +41,8 @@ My name is Lethabo Kgoele. I am currently 20 years old. I am currently a student
 - ©- HTML
 - ©-CSS
 - ©- JavaScript
+- ©- TypeScript
+- ©- React
 
 ### My projects:
 
