@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![IMG_20220929_191928](https://github.com/LTshepoJr/LTshepoJr/assets/157045615/73aaa136-bc73-46c4-928f-031632ee2ae5)
+![WhatsApp Image 2024-10-22 at 15 30 30_e43c3d7a](https://github.com/user-attachments/assets/151563b0-be85-4b54-b0fd-b657cc87e04e)
+
 
 <!--
 **LTshepoJr/LTshepoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +20,11 @@ Here are some ideas to get you started:
 
 ### Introduction:
 
-My name is Lethabo Kgoele. I am currently 19 years old, turning 20 end September. I am currently a student at CodeSpace which is based in Cape Town. I love coding and music especially Rap. I love anime, my all-time favorite is Naruto.
+My name is Lethabo Kgoele. I am currently 20 years old. I am currently a student at CodeSpace which is based in Cape Town. I love coding and music especially Hip-Hop/Rap. I love anime, my all-time favorite is Naruto.
 
 **Interests and Values**:
 
-- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school, why only learn coding when you done with school when you can also learn it while you are growing up
+- I want to create web applications for people and games too, I want to be of service, it will help me develop as a person and give me ideas on how to create my applications or games and maybe create my own school. Creating a school is one of my biggest interest because learning how to code while you young is very prosperous.
 
 **Short-term Goals** (Next 1-2 years):
 
