@@ -37,7 +37,6 @@ My name is Lethabo Kgoele, and I am currently 20 years old. I am a student at Co
 
 ### List of my skills and technologies:
 
-- ©- Fast Typing
 - ©- HTML
 - ©- CSS
 - ©- JavaScript
