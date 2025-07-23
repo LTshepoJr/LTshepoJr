@@ -44,6 +44,25 @@ One of my biggest dreams is to **open a school** dedicated to teaching young peo
 
 ![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
+## 🏅 Certificates
+
+### 📜 Full Stack Software Development Certificate  
+**Issued by:** FNB Digital Learning Program  
+**Date:** 21 July 2025
+
+A comprehensive full stack development program covering both front-end and back-end technologies. This program reinforced my understanding of industry practices and sharpened my skills in building scalable, responsive applications.
+
+---
+
+### 📜 Software Development – 12 Month Part-Time Program  
+**Institution:** CodeSpace Academy  
+**Completion Date:** November 2024  
+**Result:** Completed with Merit
+
+An intensive year-long part-time course that covered the foundations of programming, software design, web development, and problem-solving. This program laid the groundwork for my journey as a developer and helped me build confidence in real-world coding challenges.
+
+---
+
 ## 🧠 Technical Skills
 
 - 🌐 **HTML** – Structuring the web with clean and semantic markup  
