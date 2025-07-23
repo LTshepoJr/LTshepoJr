@@ -2,65 +2,79 @@
 
 ![WhatsApp Image 2024-10-22 at 15 30 30_e43c3d7a](https://github.com/user-attachments/assets/151563b0-be85-4b54-b0fd-b657cc87e04e)
 
-<!--
-**LTshepoJr/LTshepoJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Introduction
 
-Here are some ideas to get you started:
+Hello! My name is **Lethabo Kgoele**, and I am a 20-year-old tech enthusiast originally from Pretoria. I studied at **CodeSpace**, where I had the opportunity to pursue my passion for coding and explore the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond technology, I have a deep appreciation for **music**, especially Hip-Hop and Rap, and I am an unapologetic **anime fan**—with _Naruto_ forever holding the top spot on my favourite anime list.
 
-### Introduction:
+---
 
-My name is Lethabo Kgoele, and I am currently 20 years old. I am a student at CodeSpace, based in Cape Town, where I am pursuing my passion for coding. In addition to my interest in technology, I have a deep love for music, particularly Hip-Hop and Rap, and I am also a fan of anime, with _Naruto_ being my all-time favorite.
+## 🎯 Interests & Core Values
 
-**Interests and Values**:
+I’m enthusiastic about building things that matter—whether it's a **web application, mobile app, or video game**. My goal is to create technology that **serves, inspires, and uplifts others**.
 
-- I aspire to create web applications and video games that serve and inspire others. I believe this work will not only help me grow as an individual but also provide valuable insights for my future projects. One of my greatest ambitions is to establish a school where young people can learn how to code. I firmly believe that starting early in the world of programming can lead to immense success and opportunities.
+One of my biggest dreams is to **open a school** dedicated to teaching young people how to code. I genuinely believe that early access to programming can change the course of someone’s life, unlocking opportunity and confidence through skill-building.
 
-**Short-term Goals** (Next 1-2 years):
+---
 
-- Within the next year, I aim to strengthen my coding skills to the point where I can work independently on various projects. I hope to have built numerous applications that will serve as milestones in my journey. In two years, I see myself gaining experience in a professional environment, which will teach me the dynamics of teamwork and help me overcome challenges as I pursue both personal and professional growth.
+## 📌 Short-Term Goals *(1–2 Years)*
 
-**Long-term Goals** (3-5 years and beyond):
+- Sharpen my coding skills to confidently take on **independent projects**.
+- Build a **portfolio of applications** that highlight my progress and creativity.
+- Step into a **professional work environment** to learn how teams collaborate, tackle challenges, and ship real-world projects.
 
-- In three years, I envision myself working on web applications or games for clients, or possibly contributing my skills to a larger organization like the military. By the fourth year, I plan to actively work towards realizing my dream of starting a school. In five years, I will be fully committed to turning that dream into reality and making a meaningful impact through education and technology.
+---
+
+## 🚀 Mid-Term Goals *(3–6 Years)*
+
+- Contribute to **real client projects**, whether through freelance work or employment in a company.
+- Gain **firsthand experience** building impactful tools—be it web applications, a useful mobile solution, or even a fun indie game.
+- Use this phase to lay the groundwork for my bigger vision.
+
+---
+
+## 🌱 Long-Term Goals *(7–10 Years and Beyond)*
+
+- **Establish a tech-focused school** where young minds—especially from underrepresented communities—can learn to code, innovate, and dream bigger.
+- Make a lasting impact through **education and technology**.
+- And yes... I would love to **retire by forty**—not to stop working, but to live with full freedom, giving back and pursuing passion projects on my own terms.
+
+---
 
 ![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
-### List of my skills and technologies:
+## 🧠 Technical Skills
 
-- ©- HTML
-- ©- CSS
-- ©- JavaScript
-- ©- TypeScript
-- ©- React
+- 🌐 **HTML** – Structuring the web with clean and semantic markup  
+- 🎨 **CSS** – Styling responsive, modern user interfaces  
+- ⚙️ **JavaScript** – Adding interactivity and logic to applications  
+- 🔐 **TypeScript** – Writing safer, scalable JavaScript  
+- ⚛️ **React** – Building fast, component-based user interfaces  
+- 🐍 **Python** – Scripting, automation, and foundational backend development
 
-### My projects:
+## 💻 Projects
 
-**I have utilized HTML, CSS, and JavaScript in these projects, which reflect my current skill set and development progress.**
+### 🔐 [Password Generator](https://github.com/LTshepoJr/Password-Generator.git)
 
-As a basketball enthusiast, I created a scorecard application that can be used during games at my younger brother’s school to keep track of scores. This project allowed me to combine my passion for the sport with practical coding solutions. - [Basketball Scorecard](https://github.com/LTshepoJr/Basketball-Scorecard.git)
+This project was a personal initiative to deepen my understanding of **JavaScript** beyond the classroom. Key features include:
 
-For this project, I sought to expand my knowledge of JavaScript beyond what I had learned in class. I incorporated functions such as a refresh button, the ability to choose numbers and symbols, and a "click to copy" feature after generating a password. - [Password Generator](https://github.com/LTshepoJr/Password-Generator.git)
+- A **refresh button** to regenerate passwords
+- Options to **include numbers and symbols**
+- A **"click to copy"** functionality for ease of use
 
-In this project, I integrated Firebase as a database to ensure data persistence even after page refreshes. This was a great learning experience, and I enhanced the app’s accessibility and visual appeal by adding CSS features to make it more user-friendly. - [Add to Cart App](https://github.com/LTshepoJr/Module_6_LETKGO330_PTO2401_GroupB2_Lethabo-Kgoele_SDF07.git)
+Through this project, I explored user interaction, DOM manipulation, and custom logic in JavaScript, which helped solidify my foundational skills.
 
-### My social:
 
-- [Instagram](https://www.instagram.com/l.tshepo.jr/)
-- [Twitter/X](https://twitter.com/LTshepojr)
+## 🌐 Connect with Me
 
-### Contact:
+### 📱 Social Media
 
-- E-Mail - lethabotshepojr@gmail.com
-- Number - +27842291148
+- [Instagram - @l.tshepo.jr](https://www.instagram.com/l.tshepo.jr/)
+- [Twitter/X - @LTshepojr](https://twitter.com/LTshepojr)
+- [TikTok – @kortestalkstech](https://www.tiktok.com/@kortestalkstech)
 
-<!-- Added Profile Image -->
+### 📞 Contact Details
+
+- **Email:** lethabotshepojr@gmail.com  
+
