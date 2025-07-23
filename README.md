@@ -73,6 +73,7 @@ Through this project, I explored user interaction, DOM manipulation, and custom 
 - [Instagram - @l.tshepo.jr](https://www.instagram.com/l.tshepo.jr/)
 - [Twitter/X - @LTshepojr](https://twitter.com/LTshepojr)
 - [TikTok – @kortestalkstech](https://www.tiktok.com/@kortestalkstech)
+- [LinkedIn](https://www.linkedin.com/in/lethabo-kgoele-ltshepojr/)
 
 ### 📞 Contact Details
 
