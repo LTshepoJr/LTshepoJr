@@ -6,17 +6,19 @@
 
 # 👋 Introduction
 
-Hello! My name is **Lethabo Kgoele**, and I am a 20-year-old tech enthusiast originally from Pretoria. I studied at **CodeSpace**, where I had the opportunity to pursue my passion for coding and explore the world of software development.
+Hello! My name is **Lethabo Kgoele**, a tech enthusiast from Pretoria, South Africa. I studied at **CodeSpace Academy** in Cape Town, where I pursued my passion for coding and explored the world of software development.
 
-Beyond technology, I have a deep appreciation for **music**, especially Hip-Hop and Rap, and I am an unapologetic **anime fan**—with _Naruto_ forever holding the top spot on my favourite anime list.
+Outside of tech, I have a huge love for **music**, especially Hip-Hop and Rap. I’m also an unapologetic **anime fan** — with _Naruto_ forever holding the top spot on my all-time favourites list.
+
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
 ---
 
 ## 🎯 Interests & Core Values
 
-I’m enthusiastic about building things that matter—whether it's a **web application, mobile app, or video game**. My goal is to create technology that **serves, inspires, and uplifts others**.
+I’m passionate about creating meaningful digital experiences — whether it's a **web app, mobile app, or video games**. Lately, I’ve been diving deeper into backend development, with Python and C# as my primary languages. My mission is to build technology that **serves, entertains, and brings joy to people and clients alike**.
 
-One of my biggest dreams is to **open a school** dedicated to teaching young people how to code. I genuinely believe that early access to programming can change the course of someone’s life, unlocking opportunity and confidence through skill-building.
+One of my biggest ambitions is to **open a school** dedicated to teaching young people how to code. I truly believe early access to programming can transform lives — by unlocking opportunities, building confidence, and nurturing problem-solving skills from a young age.
 
 ---
 
@@ -30,9 +32,9 @@ One of my biggest dreams is to **open a school** dedicated to teaching young peo
 
 ## 🚀 Mid-Term Goals *(3–6 Years)*
 
-- Contribute to **real client projects**, whether through freelance work or employment in a company.
-- Gain **firsthand experience** building impactful tools—be it web applications, a useful mobile solution, or even a fun indie game.
-- Use this phase to lay the groundwork for my bigger vision.
+- Work on **real client projects** — either through freelance opportunities or as a junior software developer in a professional team.
+- Gain **hands-on experience** building impactful solutions, whether it’s a web app, a practical mobile tool, or a fun indie game.
+- Use this stage to build a solid foundation that supports my long-term vision.
 
 ---
 
@@ -41,10 +43,6 @@ One of my biggest dreams is to **open a school** dedicated to teaching young peo
 - **Establish a tech-focused school** where young minds—especially from underrepresented communities—can learn to code, innovate, and dream bigger.
 - Make a lasting impact through **education and technology**.
 - And yes... I would love to **retire by forty**—not to stop working, but to live with full freedom, giving back and pursuing passion projects on my own terms.
-
----
-
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVoYzU4eWE5dXhtZ2pkYm4ydmFrcWNjNHlmcDQ5azRndWxiOWV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
 ---
 
@@ -138,3 +136,6 @@ This project is a simple yet effective **calculator app** built with JavaScript 
 ### 📞 Contact Details
 
 - **Email:** lethabotshepojr@gmail.com
+
+---
+# &copy; 2025 kortestalkstech. All rights reserved.
