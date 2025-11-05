@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![WhatsApp Image 2024-10-22 at 15 30 30_e43c3d7a](https://github.com/user-attachments/assets/151563b0-be85-4b54-b0fd-b657cc87e04e)
+![Image](https://github.com/user-attachments/assets/7bd32d54-2d11-493d-8459-3a4009f37d28)
 
 ---
 
