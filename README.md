@@ -138,4 +138,4 @@ This project is a simple yet effective **calculator app** built with JavaScript 
 - **Email:** lethabotshepojr@gmail.com
 
 ---
-# &copy; 2025 kortestalkstech. All rights reserved.
+#### &copy; 2025 kortestalkstech. All rights reserved.
